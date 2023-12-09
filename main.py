@@ -25,7 +25,7 @@ import os
 keep_alive()
 
 # Define your bot token here
-TOKEN = os.environ['TOKEN']
+TOKEN = ''
 
 
 def scrape_paragraphs():
